@@ -1,3 +1,5 @@
+Hello, I am Swati Sharma . This is my first Contribution. Thanks for this wonderful video. Very helpful.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
